@@ -13,11 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibscore&theme=vue-dark&show_icons=true)
 
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f0f0f0; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" height="30">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="30">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" height="30">
-    <img src="https://developer.nvidia.com/sites/all/themes/devzone_nvidia/images/NVIDIA_Design_H_2C.jpg" alt="NVIDIA Logo" height="30">
+<head>
+<style>
+  .symbols-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+
+  .symbol {
+    width: 50px;
+    height: 50px;
+  }
+</style>
+</head>
+<body>
+
+<div class="symbols-container">
+  <img class="symbol" src="https://raw.githubusercontent.com/Qiskit/qiskit/master/assets/images/qiskit-logo.png" alt="Qiskit Symbol">
+  <img class="symbol" src="https://pennylane.ai/qml/_images/logo.png" alt="PennyLane Symbol">
 </div>
+
+</body>
