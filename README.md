@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibscore&theme=vue-dark&show_icons=true)
 
 <div style="display: flex; align-items: center; justify-content: space-between; background-color: #f0f0f0; padding: 10px;">
-     <img src="https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg" alt="Qiskit Logo" height="30">
-    <img src="[https://pennylane.ai/qml/_images/logo.png](https://pennylane.ai/)" alt="PennyLane Logo" height="30">
+     <img src="https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg" alt="qiskit" height="30">
+     <img src="https://pennylane.ai/qml/_images/logo.png" alt="pennylane" height="30">
 </div>
