@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibscore&theme=vue-dark&show_icons=true)
 
 <div style="display: flex; align-items: center; justify-content: space-between; background-color: #f0f0f0; padding: 30px;">
-     <img src="https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg" alt="qiskit" height="30">
-     <img src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" alt="pennylane" height="30">
+     <img src="https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg" alt="qiskit" height="30" style="margin-right: 10px;">
+     <img src="https://github.com/bibscore/bibscore/blob/master/download.png" alt="pennylane" height="30" style="margin-left: 10px;">
 </div>
