@@ -18,27 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibscore&theme=vue-dark&show_icons=true)
 
-<head>
-<style>
-  .symbols-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #f0f0f0;
-    padding: 10px;
-  }
-
-  .symbol {
-    width: 50px;
-    height: 50px;
-  }
-</style>
-</head>
-<body>
-
-<div class="symbols-container">
-  <img class="symbol" src="https://raw.githubusercontent.com/Qiskit/qiskit/master/assets/images/qiskit-logo.png" alt="Qiskit Symbol">
-  <img class="symbol" src="https://pennylane.ai/qml/_images/logo.png" alt="PennyLane Symbol">
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f0f0f0; padding: 10px;">
+     <img src="https://raw.githubusercontent.com/Qiskit/qiskit/master/assets/images/qiskit-logo.png" alt="Qiskit Logo" height="30">
+    <img src="https://pennylane.ai/qml/_images/logo.png" alt="PennyLane Logo" height="30">
 </div>
-
-</body>
