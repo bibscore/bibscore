@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+崩れてゆく前に
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibscore&theme=graywhite&show_icons=true)
 
