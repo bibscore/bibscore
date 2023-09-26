@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-崩れてゆく前に
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibscore&theme=graywhite&show_icons=true)
 
 <div style="display: flex; align-items: center; justify-content: space-between; background-color: #f0f0f0; padding: 30px;">
